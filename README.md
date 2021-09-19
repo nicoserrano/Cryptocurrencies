@@ -8,10 +8,13 @@ The purpose of this project was to analyze a dataset from many alternative crypt
 ## Resources
 
 - Datasets:
-  - Example
+  - [crypto_data.csv](https://github.com/nicoserrano/Cryptocurrencies/blob/main/crypto_data.csv)
 
 - Technologies used: 
-  - Example
+  - Python
+  - Jupyter notebook
+  - Sklearn, pandas, and hvplot libraries
+  - Unsupervised Machine Learning
 
 
 ## Results
