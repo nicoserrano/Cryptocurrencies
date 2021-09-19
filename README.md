@@ -18,3 +18,9 @@ The purpose of this project was to analyze a dataset from many alternative crypt
 
 
 ## Results
+
+*Follow the code closely in the [crypto_clustering.ipynb]
+
+First, I had to preprocess and transform the data so that unsupervised machine learning could work. This included dropping null values, using only tradaeble and mined cryptocurrencies, numerically encoding categorical columns using the `pandas.get_dummies` method, and scaling the data using the `StandardScaler()` method as well. 
+
+Moreover, I proceeded with the Principal Component Analysis (PCA) to reduce the 98 scaled columns I had to only 3. 
