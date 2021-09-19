@@ -1,5 +1,5 @@
 # Cryptocurrencies
-#### *Working...*
+#### *Cryptos analysis using unsupervised machine learning and Python*
 
 ## Overview
 
