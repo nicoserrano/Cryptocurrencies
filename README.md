@@ -50,6 +50,15 @@ As it can be seen, the optimal result was 4 clusters. So, I then proceeded with 
 
 <img width="809" alt="Screen Shot 2021-09-19 at 11 32 55 AM" src="https://user-images.githubusercontent.com/83378141/133933982-c9d556d7-60db-47fb-a791-b0b50deb76c2.png">
 
+And last but not least, I came up with some visualizations to better understand the results. 
+
+<img width="818" alt="Screen Shot 2021-09-19 at 11 03 18 AM" src="https://user-images.githubusercontent.com/83378141/133934087-7d754234-41b8-49f9-9b9e-9b66c41656e2.png">
+
+This first one was a 3D scatter plot which located each clustered crypto in relation to the 3 principal components created on the PCA. As it is seen, there are 3 major groups and one outlier. 
+
+<img width="768" alt="Screen Shot 2021-09-19 at 11 57 28 AM" src="https://user-images.githubusercontent.com/83378141/133934212-5345a5d9-8792-453c-af3b-1b2934c4237e.png">
+
+Similarly, when trying to graph the clustered cryptos by total supply and mined coins, we can observe two outliers. The first one with a lot of supply and a lot of mined coins (BitTorrent Crypto) and another one with a lot of supply but not too many coins mined (TurtleCoin). 
 
 
 
