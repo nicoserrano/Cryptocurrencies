@@ -19,7 +19,7 @@ The purpose of this project was to analyze a dataset from many alternative crypt
 
 ## Results
 
-*Follow the code closely in the [crypto_clustering.ipynb]
+*Follow the code closely in the [crypto_clustering.ipynb](https://github.com/nicoserrano/Cryptocurrencies/blob/main/crypto_clustering.ipynb)*
 
 First, I had to preprocess and transform the data so that unsupervised machine learning could work. This included dropping null values, using only tradaeble and mined cryptocurrencies, numerically encoding categorical columns using the `pandas.get_dummies` method, and scaling the data using the `StandardScaler()` method as well. 
 
